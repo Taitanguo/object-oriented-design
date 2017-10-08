@@ -1,6 +1,6 @@
 package Q7_01_Deck_of_Cards;
 
-public enum Suit { 
+public enum Suit {
 	Club (0),
 	Diamond (1),
 	Heart (2),
